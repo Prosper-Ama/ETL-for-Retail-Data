@@ -133,6 +133,5 @@ This project is licensed under the MIT License.
 For any questions or feedback, please contact:
 
 - Prosper Amamgbo – amaprosperjr@gmail.com
-- GitHub: https://github.com/Prosper_Ama
 
 # Thank you for reviewing this project!
